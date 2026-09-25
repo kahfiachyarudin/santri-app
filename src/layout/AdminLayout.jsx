@@ -16,7 +16,7 @@ function AdminLayout() {
   }
 
   //? Jika login tapi BUKAN admin, lempar ke Halaman User
-  if (user.role !== 'admin') {
+  if (user.role !== 'guru') {
     return <Navigate to="/siswa" replace />;
   }
 

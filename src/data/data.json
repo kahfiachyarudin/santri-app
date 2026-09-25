@@ -1,0 +1,1438 @@
+{
+  "dashboard": {
+    "totalSantri": 50,
+    "santriAktif": 48,
+    "santriNonaktif": 2,
+    "totalKelas": 6,
+    "totalKamar": 20,
+    "absensiHariIni": {
+      "hadir": 43,
+      "izin": 4,
+      "sakit": 2,
+      "alpa": 1
+    },
+    "rataRataNilai": 84,
+    "nilaiTertinggi": 96,
+    "santriBerprestasi": 8
+  },
+
+  "santri": [
+    {
+      "id": "S001",
+      "nis": "2026001",
+      "nama": "Ahmad Fauzan",
+      "jenisKelamin": "L",
+      "kelas": "X A",
+      "kamar": "A-01",
+      "status": "Aktif",
+      "tanggalLahir": "2010-02-14",
+      "alamat": "Tangerang",
+      "nilai":[
+        
+      ]
+    },
+    {
+      "id": "S002",
+      "nis": "2026002",
+      "nama": "Muhammad Rizky",
+      "jenisKelamin": "L",
+      "kelas": "X A",
+      "kamar": "A-02",
+      "status": "Aktif",
+      "tanggalLahir": "2010-05-21",
+      "alamat": "Jakarta"
+    },
+    {
+      "id": "S003",
+      "nis": "2026003",
+      "nama": "Abdullah Fikri",
+      "jenisKelamin": "L",
+      "kelas": "X A",
+      "kamar": "A-03",
+      "status": "Aktif",
+      "tanggalLahir": "2010-07-11",
+      "alamat": "Bekasi"
+    },
+    {
+      "id": "S004",
+      "nis": "2026004",
+      "nama": "Ali Akbar",
+      "jenisKelamin": "L",
+      "kelas": "X A",
+      "kamar": "A-04",
+      "status": "Aktif",
+      "tanggalLahir": "2010-01-30",
+      "alamat": "Depok"
+    },
+    {
+      "id": "S005",
+      "nis": "2026005",
+      "nama": "Yusuf Ramadhan",
+      "jenisKelamin": "L",
+      "kelas": "X A",
+      "kamar": "A-05",
+      "status": "Aktif",
+      "tanggalLahir": "2010-09-08",
+      "alamat": "Bogor"
+    },
+    {
+      "id": "S006",
+      "nis": "2026006",
+      "nama": "Ibrahim Hakim",
+      "jenisKelamin": "L",
+      "kelas": "X A",
+      "kamar": "A-06",
+      "status": "Aktif",
+      "tanggalLahir": "2010-03-19",
+      "alamat": "Karawang"
+    },
+    {
+      "id": "S007",
+      "nis": "2026007",
+      "nama": "Zaidan Maulana",
+      "jenisKelamin": "L",
+      "kelas": "X A",
+      "kamar": "A-07",
+      "status": "Aktif",
+      "tanggalLahir": "2010-11-02",
+      "alamat": "Serang"
+    },
+    {
+      "id": "S008",
+      "nis": "2026008",
+      "nama": "Fahmi Ramadhan",
+      "jenisKelamin": "L",
+      "kelas": "X A",
+      "kamar": "A-08",
+      "status": "Aktif",
+      "tanggalLahir": "2010-06-17",
+      "alamat": "Pandeglang"
+    },
+
+    {
+      "id": "S009",
+      "nis": "2026009",
+      "nama": "Rafi Alfarizi",
+      "jenisKelamin": "L",
+      "kelas": "X B",
+      "kamar": "B-01",
+      "status": "Aktif",
+      "tanggalLahir": "2010-08-25",
+      "alamat": "Cilegon"
+    },
+    {
+      "id": "S010",
+      "nis": "2026010",
+      "nama": "Hafiz Maulana",
+      "jenisKelamin": "L",
+      "kelas": "X B",
+      "kamar": "B-02",
+      "status": "Aktif",
+      "tanggalLahir": "2010-12-12",
+      "alamat": "Sukabumi"
+    },
+    {
+      "id": "S011",
+      "nis": "2026011",
+      "nama": "Abdurrahman Yusuf",
+      "jenisKelamin": "L",
+      "kelas": "X B",
+      "kamar": "B-03",
+      "status": "Aktif",
+      "tanggalLahir": "2010-04-05",
+      "alamat": "Bandung"
+    },
+    {
+      "id": "S012",
+      "nis": "2026012",
+      "nama": "Fikri Hidayat",
+      "jenisKelamin": "L",
+      "kelas": "X B",
+      "kamar": "B-04",
+      "status": "Aktif",
+      "tanggalLahir": "2010-10-14",
+      "alamat": "Cimahi"
+    },
+    {
+      "id": "S013",
+      "nis": "2026013",
+      "nama": "Rizwan Hakim",
+      "jenisKelamin": "L",
+      "kelas": "X B",
+      "kamar": "B-05",
+      "status": "Aktif",
+      "tanggalLahir": "2010-02-28",
+      "alamat": "Garut"
+    },
+    {
+      "id": "S014",
+      "nis": "2026014",
+      "nama": "Daffa Alamsyah",
+      "jenisKelamin": "L",
+      "kelas": "X B",
+      "kamar": "B-06",
+      "status": "Aktif",
+      "tanggalLahir": "2010-06-09",
+      "alamat": "Tasikmalaya"
+    },
+    {
+      "id": "S015",
+      "nis": "2026015",
+      "nama": "Ilham Fauzi",
+      "jenisKelamin": "L",
+      "kelas": "X B",
+      "kamar": "B-07",
+      "status": "Aktif",
+      "tanggalLahir": "2010-01-18",
+      "alamat": "Cianjur"
+    },
+    {
+      "id": "S016",
+      "nis": "2026016",
+      "nama": "Naufal Akmal",
+      "jenisKelamin": "L",
+      "kelas": "X B",
+      "kamar": "B-08",
+      "status": "Aktif",
+      "tanggalLahir": "2010-07-27",
+      "alamat": "Purwakarta"
+    },
+
+    {
+      "id": "S017",
+      "nis": "2026017",
+      "nama": "Raihan Azmi",
+      "jenisKelamin": "L",
+      "kelas": "XI A",
+      "kamar": "C-01",
+      "status": "Aktif",
+      "tanggalLahir": "2009-09-16",
+      "alamat": "Subang"
+    },
+    {
+      "id": "S018",
+      "nis": "2026018",
+      "nama": "Fathan Nabil",
+      "jenisKelamin": "L",
+      "kelas": "XI A",
+      "kamar": "C-02",
+      "status": "Aktif",
+      "tanggalLahir": "2009-03-07",
+      "alamat": "Indramayu"
+    },
+    {
+      "id": "S019",
+      "nis": "2026019",
+      "nama": "Ammar Zaki",
+      "jenisKelamin": "L",
+      "kelas": "XI A",
+      "kamar": "C-03",
+      "status": "Aktif",
+      "tanggalLahir": "2009-11-19",
+      "alamat": "Cirebon"
+    },
+    {
+      "id": "S020",
+      "nis": "2026020",
+      "nama": "Rizqi Ramadhan",
+      "jenisKelamin": "L",
+      "kelas": "XI A",
+      "kamar": "C-04",
+      "status": "Aktif",
+      "tanggalLahir": "2009-05-03",
+      "alamat": "Majalengka"
+    },
+    {
+      "id": "S021",
+      "nis": "2026021",
+      "nama": "Muhammad Arsyad",
+      "jenisKelamin": "L",
+      "kelas": "XI A",
+      "kamar": "C-05",
+      "status": "Aktif",
+      "tanggalLahir": "2009-02-10",
+      "alamat": "Tangerang"
+    },
+    {
+      "id": "S022",
+      "nis": "2026022",
+      "nama": "Ahmad Zulfikar",
+      "jenisKelamin": "L",
+      "kelas": "XI A",
+      "kamar": "C-06",
+      "status": "Aktif",
+      "tanggalLahir": "2009-04-22",
+      "alamat": "Bekasi"
+    },
+    {
+      "id": "S023",
+      "nis": "2026023",
+      "nama": "Miftahul Huda",
+      "jenisKelamin": "L",
+      "kelas": "XI A",
+      "kamar": "C-07",
+      "status": "Aktif",
+      "tanggalLahir": "2009-08-15",
+      "alamat": "Depok"
+    },
+    {
+      "id": "S024",
+      "nis": "2026024",
+      "nama": "Fauzan Aditya",
+      "jenisKelamin": "L",
+      "kelas": "XI A",
+      "kamar": "C-08",
+      "status": "Aktif",
+      "tanggalLahir": "2009-01-09",
+      "alamat": "Bogor"
+    },
+    {
+      "id": "S025",
+      "nis": "2026025",
+      "nama": "Abdul Aziz",
+      "jenisKelamin": "L",
+      "kelas": "XI A",
+      "kamar": "C-09",
+      "status": "Aktif",
+      "tanggalLahir": "2009-06-28",
+      "alamat": "Karawang"
+    },
+
+    {
+      "id": "S026",
+      "nis": "2026026",
+      "nama": "Wildan Fadillah",
+      "jenisKelamin": "L",
+      "kelas": "XI B",
+      "kamar": "D-01",
+      "status": "Aktif",
+      "tanggalLahir": "2009-10-06",
+      "alamat": "Serang"
+    },
+    {
+      "id": "S027",
+      "nis": "2026027",
+      "nama": "Dimas Kurniawan",
+      "jenisKelamin": "L",
+      "kelas": "XI B",
+      "kamar": "D-02",
+      "status": "Aktif",
+      "tanggalLahir": "2009-03-24",
+      "alamat": "Jakarta"
+    },
+    {
+      "id": "S028",
+      "nis": "2026028",
+      "nama": "Rifqi Maulana",
+      "jenisKelamin": "L",
+      "kelas": "XI B",
+      "kamar": "D-03",
+      "status": "Aktif",
+      "tanggalLahir": "2009-07-13",
+      "alamat": "Cilegon"
+    },
+    {
+      "id": "S029",
+      "nis": "2026029",
+      "nama": "Bagas Pratama",
+      "jenisKelamin": "L",
+      "kelas": "XI B",
+      "kamar": "D-04",
+      "status": "Aktif",
+      "tanggalLahir": "2009-09-30",
+      "alamat": "Sukabumi"
+    },
+    {
+      "id": "S030",
+      "nis": "2026030",
+      "nama": "Faris Ramadhan",
+      "jenisKelamin": "L",
+      "kelas": "XI B",
+      "kamar": "D-05",
+      "status": "Aktif",
+      "tanggalLahir": "2009-12-01",
+      "alamat": "Bandung"
+    },
+    {
+      "id": "S031",
+      "nis": "2026031",
+      "nama": "Imam Syafi'i",
+      "jenisKelamin": "L",
+      "kelas": "XI B",
+      "kamar": "D-06",
+      "status": "Aktif",
+      "tanggalLahir": "2009-05-12",
+      "alamat": "Garut"
+    },
+    {
+      "id": "S032",
+      "nis": "2026032",
+      "nama": "Rizal Maulana",
+      "jenisKelamin": "L",
+      "kelas": "XI B",
+      "kamar": "D-07",
+      "status": "Aktif",
+      "tanggalLahir": "2009-11-08",
+      "alamat": "Tasikmalaya"
+    },
+    {
+      "id": "S033",
+      "nis": "2026033",
+      "nama": "Haris Setiawan",
+      "jenisKelamin": "L",
+      "kelas": "XI B",
+      "kamar": "D-08",
+      "status": "Aktif",
+      "tanggalLahir": "2009-02-19",
+      "alamat": "Cianjur"
+    },
+
+    {
+      "id": "S034",
+      "nis": "2026034",
+      "nama": "Rendy Firmansyah",
+      "jenisKelamin": "L",
+      "kelas": "XII A",
+      "kamar": "E-01",
+      "status": "Aktif",
+      "tanggalLahir": "2008-06-04",
+      "alamat": "Purwakarta"
+    },
+    {
+      "id": "S035",
+      "nis": "2026035",
+      "nama": "Arif Nugraha",
+      "jenisKelamin": "L",
+      "kelas": "XII A",
+      "kamar": "E-02",
+      "status": "Aktif",
+      "tanggalLahir": "2008-08-21",
+      "alamat": "Subang"
+    },
+    {
+      "id": "S036",
+      "nis": "2026036",
+      "nama": "Fikri Ramadhan",
+      "jenisKelamin": "L",
+      "kelas": "XII A",
+      "kamar": "E-03",
+      "status": "Aktif",
+      "tanggalLahir": "2008-10-17",
+      "alamat": "Indramayu"
+    },
+    {
+      "id": "S037",
+      "nis": "2026037",
+      "nama": "Musa Alfarizi",
+      "jenisKelamin": "L",
+      "kelas": "XII A",
+      "kamar": "E-04",
+      "status": "Aktif",
+      "tanggalLahir": "2008-01-26",
+      "alamat": "Cirebon"
+    },
+    {
+      "id": "S038",
+      "nis": "2026038",
+      "nama": "Aldi Saputra",
+      "jenisKelamin": "L",
+      "kelas": "XII A",
+      "kamar": "E-05",
+      "status": "Aktif",
+      "tanggalLahir": "2008-04-13",
+      "alamat": "Majalengka"
+    },
+    {
+      "id": "S039",
+      "nis": "2026039",
+      "nama": "Fajar Hidayat",
+      "jenisKelamin": "L",
+      "kelas": "XII A",
+      "kamar": "E-06",
+      "status": "Aktif",
+      "tanggalLahir": "2008-07-05",
+      "alamat": "Tangerang"
+    },
+    {
+      "id": "S040",
+      "nis": "2026040",
+      "nama": "Raka Adinata",
+      "jenisKelamin": "L",
+      "kelas": "XII A",
+      "kamar": "E-07",
+      "status": "Aktif",
+      "tanggalLahir": "2008-09-11",
+      "alamat": "Jakarta"
+    },
+    {
+      "id": "S041",
+      "nis": "2026041",
+      "nama": "Azzam Hakim",
+      "jenisKelamin": "L",
+      "kelas": "XII B",
+      "kamar": "F-01",
+      "status": "Aktif",
+      "tanggalLahir": "2008-02-07",
+      "alamat": "Bekasi"
+    },
+    {
+      "id": "S042",
+      "nis": "2026042",
+      "nama": "Fathan Fauzi",
+      "jenisKelamin": "L",
+      "kelas": "XII B",
+      "kamar": "F-02",
+      "status": "Aktif",
+      "tanggalLahir": "2008-05-18",
+      "alamat": "Depok"
+    },
+    {
+      "id": "S043",
+      "nis": "2026043",
+      "nama": "Rizky Ramadhan",
+      "jenisKelamin": "L",
+      "kelas": "XII B",
+      "kamar": "F-03",
+      "status": "Aktif",
+      "tanggalLahir": "2008-08-29",
+      "alamat": "Bogor"
+    },
+    {
+      "id": "S044",
+      "nis": "2026044",
+      "nama": "Haikal Akbar",
+      "jenisKelamin": "L",
+      "kelas": "XII B",
+      "kamar": "F-04",
+      "status": "Aktif",
+      "tanggalLahir": "2008-01-16",
+      "alamat": "Karawang"
+    },
+    {
+      "id": "S045",
+      "nis": "2026045",
+      "nama": "Rafi Hidayat",
+      "jenisKelamin": "L",
+      "kelas": "XII B",
+      "kamar": "F-05",
+      "status": "Aktif",
+      "tanggalLahir": "2008-03-22",
+      "alamat": "Serang"
+    },
+    {
+      "id": "S046",
+      "nis": "2026046",
+      "nama": "Dzikri Maulana",
+      "jenisKelamin": "L",
+      "kelas": "XII B",
+      "kamar": "F-06",
+      "status": "Aktif",
+      "tanggalLahir": "2008-06-10",
+      "alamat": "Cilegon"
+    },
+    {
+      "id": "S047",
+      "nis": "2026047",
+      "nama": "Nabil Alfarizi",
+      "jenisKelamin": "L",
+      "kelas": "XII B",
+      "kamar": "F-07",
+      "status": "Nonaktif",
+      "tanggalLahir": "2008-09-03",
+      "alamat": "Sukabumi"
+    },
+    {
+      "id": "S048",
+      "nis": "2026048",
+      "nama": "Farhan Yusuf",
+      "jenisKelamin": "L",
+      "kelas": "XII B",
+      "kamar": "F-08",
+      "status": "Aktif",
+      "tanggalLahir": "2008-11-24",
+      "alamat": "Bandung"
+    },
+    {
+      "id": "S049",
+      "nis": "2026049",
+      "nama": "Raihan Fadillah",
+      "jenisKelamin": "L",
+      "kelas": "XII B",
+      "kamar": "F-09",
+      "status": "Aktif",
+      "tanggalLahir": "2008-04-09",
+      "alamat": "Garut"
+    },
+    {
+      "id": "S050",
+      "nis": "2026050",
+      "nama": "Ilham Maulana",
+      "jenisKelamin": "L",
+      "kelas": "XII B",
+      "kamar": "F-10",
+      "status": "Nonaktif",
+      "tanggalLahir": "2008-07-17",
+      "alamat": "Tasikmalaya"
+    }
+  ],
+
+  "absensi": [
+    {
+      "id": "A001",
+      "santriId": "S001",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "06:58"
+    },
+    {
+      "id": "A002",
+      "santriId": "S002",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:02"
+    },
+    {
+      "id": "A003",
+      "santriId": "S003",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:05"
+    },
+    {
+      "id": "A004",
+      "santriId": "S004",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:07"
+    },
+    {
+      "id": "A005",
+      "santriId": "S005",
+      "tanggal": "2026-09-09",
+      "status": "Izin",
+      "jam": null
+    },
+    {
+      "id": "A006",
+      "santriId": "S006",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:01"
+    },
+    {
+      "id": "A007",
+      "santriId": "S007",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "06:59"
+    },
+    {
+      "id": "A008",
+      "santriId": "S008",
+      "tanggal": "2026-09-09",
+      "status": "Sakit",
+      "jam": null
+    },
+    {
+      "id": "A009",
+      "santriId": "S009",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:10"
+    },
+    {
+      "id": "A010",
+      "santriId": "S010",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:04"
+    },
+    {
+      "id": "A011",
+      "santriId": "S011",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:03"
+    },
+    {
+      "id": "A012",
+      "santriId": "S012",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:08"
+    },
+    {
+      "id": "A013",
+      "santriId": "S013",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:06"
+    },
+    {
+      "id": "A014",
+      "santriId": "S014",
+      "tanggal": "2026-09-09",
+      "status": "Izin",
+      "jam": null
+    },
+    {
+      "id": "A015",
+      "santriId": "S015",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:11"
+    },
+    {
+      "id": "A016",
+      "santriId": "S016",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:00"
+    },
+    {
+      "id": "A017",
+      "santriId": "S017",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:02"
+    },
+    {
+      "id": "A018",
+      "santriId": "S018",
+      "tanggal": "2026-09-09",
+      "status": "Sakit",
+      "jam": null
+    },
+    {
+      "id": "A019",
+      "santriId": "S019",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:09"
+    },
+    {
+      "id": "A020",
+      "santriId": "S020",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:04"
+    },
+    {
+      "id": "A021",
+      "santriId": "S021",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:01"
+    },
+    {
+      "id": "A022",
+      "santriId": "S022",
+      "tanggal": "2026-09-09",
+      "status": "Izin",
+      "jam": null
+    },
+    {
+      "id": "A023",
+      "santriId": "S023",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:05"
+    },
+    {
+      "id": "A024",
+      "santriId": "S024",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:07"
+    },
+    {
+      "id": "A025",
+      "santriId": "S025",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:03"
+    },
+    {
+      "id": "A026",
+      "santriId": "S026",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:00"
+    },
+    {
+      "id": "A027",
+      "santriId": "S027",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:08"
+    },
+    {
+      "id": "A028",
+      "santriId": "S028",
+      "tanggal": "2026-09-09",
+      "status": "Alpa",
+      "jam": null
+    },
+    {
+      "id": "A029",
+      "santriId": "S029",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:06"
+    },
+    {
+      "id": "A030",
+      "santriId": "S030",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:02"
+    },
+    {
+      "id": "A031",
+      "santriId": "S031",
+      "tanggal": "2026-09-09",
+      "status": "Izin",
+      "jam": null
+    },
+    {
+      "id": "A032",
+      "santriId": "S032",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:04"
+    },
+    {
+      "id": "A033",
+      "santriId": "S033",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:05"
+    },
+    {
+      "id": "A034",
+      "santriId": "S034",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:01"
+    },
+    {
+      "id": "A035",
+      "santriId": "S035",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:09"
+    },
+    {
+      "id": "A036",
+      "santriId": "S036",
+      "tanggal": "2026-09-09",
+      "status": "Sakit",
+      "jam": null
+    },
+    {
+      "id": "A037",
+      "santriId": "S037",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:03"
+    },
+    {
+      "id": "A038",
+      "santriId": "S038",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:07"
+    },
+    {
+      "id": "A039",
+      "santriId": "S039",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:06"
+    },
+    {
+      "id": "A040",
+      "santriId": "S040",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:04"
+    },
+    {
+      "id": "A041",
+      "santriId": "S041",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:02"
+    },
+    {
+      "id": "A042",
+      "santriId": "S042",
+      "tanggal": "2026-09-09",
+      "status": "Izin",
+      "jam": null
+    },
+    {
+      "id": "A043",
+      "santriId": "S043",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:08"
+    },
+    {
+      "id": "A044",
+      "santriId": "S044",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:01"
+    },
+    {
+      "id": "A045",
+      "santriId": "S045",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:05"
+    },
+    {
+      "id": "A046",
+      "santriId": "S046",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:03"
+    },
+    {
+      "id": "A047",
+      "santriId": "S047",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:00"
+    },
+    {
+      "id": "A048",
+      "santriId": "S048",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:06"
+    },
+    {
+      "id": "A049",
+      "santriId": "S049",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:02"
+    },
+    {
+      "id": "A050",
+      "santriId": "S050",
+      "tanggal": "2026-09-09",
+      "status": "Hadir",
+      "jam": "07:04"
+    }
+  ],
+
+  "nilai": [
+    {
+      "id": "N001",
+      "santriId": "S001",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 88,
+      "fiqih": 92,
+      "bahasaArab": 85,
+      "akhlak": 90
+    },
+    {
+      "id": "N002",
+      "santriId": "S002",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 90,
+      "fiqih": 86,
+      "bahasaArab": 89,
+      "akhlak": 87
+    },
+    {
+      "id": "N003",
+      "santriId": "S003",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 78,
+      "fiqih": 84,
+      "bahasaArab": 80,
+      "akhlak": 85
+    },
+    {
+      "id": "N004",
+      "santriId": "S004",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 95,
+      "fiqih": 91,
+      "bahasaArab": 93,
+      "akhlak": 94
+    },
+    {
+      "id": "N005",
+      "santriId": "S005",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 82,
+      "fiqih": 79,
+      "bahasaArab": 84,
+      "akhlak": 88
+    },
+    {
+      "id": "N006",
+      "santriId": "S006",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 87,
+      "fiqih": 89,
+      "bahasaArab": 91,
+      "akhlak": 86
+    },
+    {
+      "id": "N007",
+      "santriId": "S007",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 91,
+      "fiqih": 88,
+      "bahasaArab": 90,
+      "akhlak": 92
+    },
+    {
+      "id": "N008",
+      "santriId": "S008",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 76,
+      "fiqih": 81,
+      "bahasaArab": 79,
+      "akhlak": 84
+    },
+    {
+      "id": "N009",
+      "santriId": "S009",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 85,
+      "fiqih": 87,
+      "bahasaArab": 83,
+      "akhlak": 89
+    },
+    {
+      "id": "N010",
+      "santriId": "S010",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 92,
+      "fiqih": 90,
+      "bahasaArab": 88,
+      "akhlak": 91
+    },
+
+    {
+      "id": "N011",
+      "santriId": "S011",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 81,
+      "fiqih": 85,
+      "bahasaArab": 87,
+      "akhlak": 83
+    },
+    {
+      "id": "N012",
+      "santriId": "S012",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 89,
+      "fiqih": 93,
+      "bahasaArab": 91,
+      "akhlak": 90
+    },
+    {
+      "id": "N013",
+      "santriId": "S013",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 84,
+      "fiqih": 82,
+      "bahasaArab": 86,
+      "akhlak": 88
+    },
+    {
+      "id": "N014",
+      "santriId": "S014",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 79,
+      "fiqih": 80,
+      "bahasaArab": 77,
+      "akhlak": 82
+    },
+    {
+      "id": "N015",
+      "santriId": "S015",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 90,
+      "fiqih": 94,
+      "bahasaArab": 92,
+      "akhlak": 95
+    },
+    {
+      "id": "N016",
+      "santriId": "S016",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 86,
+      "fiqih": 88,
+      "bahasaArab": 85,
+      "akhlak": 87
+    },
+    {
+      "id": "N017",
+      "santriId": "S017",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 94,
+      "fiqih": 91,
+      "bahasaArab": 96,
+      "akhlak": 93
+    },
+    {
+      "id": "N018",
+      "santriId": "S018",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 83,
+      "fiqih": 85,
+      "bahasaArab": 81,
+      "akhlak": 86
+    },
+    {
+      "id": "N019",
+      "santriId": "S019",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 88,
+      "fiqih": 90,
+      "bahasaArab": 87,
+      "akhlak": 91
+    },
+    {
+      "id": "N020",
+      "santriId": "S020",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 80,
+      "fiqih": 84,
+      "bahasaArab": 82,
+      "akhlak": 85
+    },
+
+    {
+      "id": "N021",
+      "santriId": "S021",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 93,
+      "fiqih": 95,
+      "bahasaArab": 91,
+      "akhlak": 94
+    },
+    {
+      "id": "N022",
+      "santriId": "S022",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 87,
+      "fiqih": 89,
+      "bahasaArab": 84,
+      "akhlak": 88
+    },
+    {
+      "id": "N023",
+      "santriId": "S023",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 91,
+      "fiqih": 90,
+      "bahasaArab": 89,
+      "akhlak": 92
+    },
+    {
+      "id": "N024",
+      "santriId": "S024",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 78,
+      "fiqih": 83,
+      "bahasaArab": 81,
+      "akhlak": 80
+    },
+    {
+      "id": "N025",
+      "santriId": "S025",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 85,
+      "fiqih": 88,
+      "bahasaArab": 90,
+      "akhlak": 86
+    },
+    {
+      "id": "N026",
+      "santriId": "S026",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 92,
+      "fiqih": 94,
+      "bahasaArab": 93,
+      "akhlak": 91
+    },
+    {
+      "id": "N027",
+      "santriId": "S027",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 84,
+      "fiqih": 86,
+      "bahasaArab": 82,
+      "akhlak": 87
+    },
+    {
+      "id": "N028",
+      "santriId": "S028",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 76,
+      "fiqih": 79,
+      "bahasaArab": 81,
+      "akhlak": 78
+    },
+    {
+      "id": "N029",
+      "santriId": "S029",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 89,
+      "fiqih": 87,
+      "bahasaArab": 91,
+      "akhlak": 90
+    },
+    {
+      "id": "N030",
+      "santriId": "S030",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 95,
+      "fiqih": 92,
+      "bahasaArab": 94,
+      "akhlak": 96
+    },
+
+    {
+      "id": "N031",
+      "santriId": "S031",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 82,
+      "fiqih": 85,
+      "bahasaArab": 84,
+      "akhlak": 88
+    },
+    {
+      "id": "N032",
+      "santriId": "S032",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 88,
+      "fiqih": 91,
+      "bahasaArab": 89,
+      "akhlak": 90
+    },
+    {
+      "id": "N033",
+      "santriId": "S033",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 79,
+      "fiqih": 83,
+      "bahasaArab": 80,
+      "akhlak": 84
+    },
+    {
+      "id": "N034",
+      "santriId": "S034",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 90,
+      "fiqih": 92,
+      "bahasaArab": 94,
+      "akhlak": 91
+    },
+    {
+      "id": "N035",
+      "santriId": "S035",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 86,
+      "fiqih": 84,
+      "bahasaArab": 88,
+      "akhlak": 87
+    },
+    {
+      "id": "N036",
+      "santriId": "S036",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 83,
+      "fiqih": 81,
+      "bahasaArab": 85,
+      "akhlak": 82
+    },
+    {
+      "id": "N037",
+      "santriId": "S037",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 93,
+      "fiqih": 89,
+      "bahasaArab": 92,
+      "akhlak": 95
+    },
+    {
+      "id": "N038",
+      "santriId": "S038",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 85,
+      "fiqih": 87,
+      "bahasaArab": 83,
+      "akhlak": 86
+    },
+    {
+      "id": "N039",
+      "santriId": "S039",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 91,
+      "fiqih": 93,
+      "bahasaArab": 90,
+      "akhlak": 92
+    },
+    {
+      "id": "N040",
+      "santriId": "S040",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 88,
+      "fiqih": 86,
+      "bahasaArab": 89,
+      "akhlak": 90
+    },
+
+    {
+      "id": "N041",
+      "santriId": "S041",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 94,
+      "fiqih": 96,
+      "bahasaArab": 93,
+      "akhlak": 95
+    },
+    {
+      "id": "N042",
+      "santriId": "S042",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 87,
+      "fiqih": 89,
+      "bahasaArab": 85,
+      "akhlak": 88
+    },
+    {
+      "id": "N043",
+      "santriId": "S043",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 90,
+      "fiqih": 92,
+      "bahasaArab": 91,
+      "akhlak": 94
+    },
+    {
+      "id": "N044",
+      "santriId": "S044",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 82,
+      "fiqih": 86,
+      "bahasaArab": 84,
+      "akhlak": 87
+    },
+    {
+      "id": "N045",
+      "santriId": "S045",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 89,
+      "fiqih": 91,
+      "bahasaArab": 88,
+      "akhlak": 92
+    },
+    {
+      "id": "N046",
+      "santriId": "S046",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 85,
+      "fiqih": 83,
+      "bahasaArab": 87,
+      "akhlak": 86
+    },
+    {
+      "id": "N047",
+      "santriId": "S047",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 77,
+      "fiqih": 80,
+      "bahasaArab": 79,
+      "akhlak": 82
+    },
+    {
+      "id": "N048",
+      "santriId": "S048",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 92,
+      "fiqih": 90,
+      "bahasaArab": 94,
+      "akhlak": 93
+    },
+    {
+      "id": "N049",
+      "santriId": "S049",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 86,
+      "fiqih": 88,
+      "bahasaArab": 90,
+      "akhlak": 87
+    },
+    {
+      "id": "N050",
+      "santriId": "S050",
+      "semester": 1,
+      "tahunAjaran": "2026/2027",
+      "tahfidz": 81,
+      "fiqih": 84,
+      "bahasaArab": 82,
+      "akhlak": 85
+    }
+  ]
+}

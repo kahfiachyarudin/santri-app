@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "USR001",
+      "nis": "12345",
+      "username": "ahmad",
+      "password": "12345",
+      "nama": "Ahmad Fauzan",
+      "role": "murid"
+    },
+    {
+      "id": "USR002",
+      "nis": "12346",
+      "username": "siti",
+      "password": "123456",
+      "nama": "Siti Aisyah",
+      "role": "murid"
+    },
+    {
+      "id": "USR003",
+      "nis": "12347",
+      "username": "rizki",
+      "password": "rizki123",
+      "nama": "Rizki Ramadan",
+      "role": "murid"
+    },
+    {
+      "id": "USR004",
+      "username": "ustadz_ali",
+      "password": "ali123",
+      "nama": "Ustadz Ali",
+      "role": "guru"
+    },
+    {
+      "id": "USR005",
+      "username": "ustadz_fajar",
+      "password": "fajar123",
+      "nama": "Ustadz Fajar",
+      "role": "guru"
+    }
+  ]
+}

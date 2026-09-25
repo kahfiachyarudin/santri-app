@@ -24,5 +24,4 @@ dist-ssr
 *.sw?
 
 # Folder yang tidak ingin di-track Git
-data/
 tugas-11/

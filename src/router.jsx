@@ -7,7 +7,6 @@ import SiswaHome from "./pages/SiswaHome";
 
 import GuestLayout from "./layout/GuestLayout";
 import AdminLayout from "./layout/AdminLayout";
-import AppLayout from "./layout/AppLayout";
 
 import SantriList from "./pages/Admin/Santri/SantriList";
 import SantriNilai from "./pages/Admin/Santri/SantriNilai";
